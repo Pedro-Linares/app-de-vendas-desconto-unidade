@@ -1,5 +1,5 @@
 # app-de-vendas-desconto-unidade
-Código python para um app de vendas com aplicação de desconto progressimo por unidades adquiridas
+# Código python para um app de vendas com aplicação de desconto progressimo por unidades adquiridas
 
 print('Bem vindo à loja')
 valorProduto = float(input('Entre com o valor do produto: ')) #  produto pode ser trocado pelo nome(s) do item(s)
